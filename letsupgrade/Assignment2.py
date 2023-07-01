@@ -5,5 +5,4 @@ def vowelR(my_string):
             my_string = my_string.replace(char, replacement)
     print(my_string)
 
-string = input("Enter the string: ")
-vowelR(string)
+
